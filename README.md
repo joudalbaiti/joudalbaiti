@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Joud 👋</h1>
+<h3 align="center">AI Engineer · Arabic NLP · LLMs · Saudi Arabia</h3>
 
-<!--
-**joudalbaiti/joudalbaiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+I build production AI systems with a focus on **Arabic NLP** and **LLM-based pipelines** for the GCC and Saudi markets. I'm passionate about making AI work natively in Arabic — a space that's still largely underexplored.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Co-author of a peer-reviewed paper at **LREC 2026 (OSACT7)**: [LLM-Based Financial Sentiment Analysis in Arabic](https://arxiv.org/abs/2605.19714)
+- 🤖 Built **RAGents** — a 5-agent sequential AI research pipeline (Planner → Researcher → Analyst → Fact Checker → Writer) with FastAPI, LiteLLM & SSE streaming
+- ☁️ Deployed production systems on **GCP** (GKE Autopilot, Cloud Run, Cloud SQL, Artifact Registry)
+- 📊 Built financial data pipelines for the **Saudi Exchange** integrating FMP, Cbonds, Preqin & KAPSARC APIs
+- 🎓 B.Sc. Artificial Intelligence — University of Jeddah (GPA 4.59/5.00, Second Honors)
+
+<br/>
+
+## Tech stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Data & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+<br/>
+
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [RAGents](https://github.com/joudalbaiti/RAGents) | Multi-agent AI research pipeline with live streaming dashboard | FastAPI · LiteLLM · SSE |
+| [Arabic Financial Sentiment](https://arxiv.org/abs/2605.19714) | LLM-based sentiment analysis on Saudi market news | Python · Transformers · Arabic NLP |
+| [Summarizer](https://github.com/joudalbaiti/Summarizer) | Text summarization tool | Python · NLP |
+
+<br/>
+
+## Research
+
+📄 **LLM-Based Financial Sentiment Analysis in Arabic: Evidence from Saudi Markets**
+*LREC 2026 — OSACT7 Workshop on Arabic NLP*
+[arXiv:2605.19714](https://arxiv.org/abs/2605.19714)
+
+<br/>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joud-albaiti)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/j_albaiti)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joudalbaiti@gmail.com)
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joudalbaiti&show_icons=true&hide_border=true&theme=default" alt="Joud's GitHub stats" />
+</p>
