@@ -8,8 +8,8 @@ I build production AI systems with a focus on **Arabic NLP** and **LLM-based pip
 - 🔬 Co-author of a peer-reviewed paper at **LREC 2026 (OSACT7)**: [LLM-Based Financial Sentiment Analysis in Arabic](https://arxiv.org/abs/2605.19714)
 - 🤖 Built **RAGents** — a 5-agent sequential AI research pipeline (Planner → Researcher → Analyst → Fact Checker → Writer) with FastAPI, LiteLLM & SSE streaming
 - ☁️ Deployed production systems on **GCP** (GKE Autopilot, Cloud Run, Cloud SQL, Artifact Registry)
-- 📊 Built financial data pipelines for the **Saudi Exchange** integrating FMP, Cbonds, Preqin & KAPSARC APIs
-- 🎓 B.Sc. Artificial Intelligence — University of Jeddah (GPA 4.59/5.00, Second Honors)
+- 📊 Built financial data pipelines for **Saudi & GCC markets** integrating multiple financial data APIs
+- 🎓 B.Sc. Artificial Intelligence — University of Jeddah
 
 <br/>
 
@@ -63,10 +63,6 @@ I build production AI systems with a focus on **Arabic NLP** and **LLM-based pip
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joud-albaiti)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/j_albaiti)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joudalbaiti.7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joudalbaiti@gmail.com)
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joudalbaiti&show_icons=true&hide_border=true&theme=default" alt="Joud's GitHub stats" />
-</p>
