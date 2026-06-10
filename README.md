@@ -46,8 +46,7 @@ I build production AI systems with a focus on **Arabic NLP** and **LLM-based pip
 | Project | What it does | Stack |
 |---|---|---|
 | [Arabic Content Recommender](https://github.com/joudalbaiti/arabic-recommender) | Hybrid Arabic movie & series recommender using AraBERT + Collaborative Filtering | AraBERT · FastAPI · scikit-learn |
-| [Arabic Financial Sentiment](https://arxiv.org/abs/2605.19714) | LLM-based sentiment analysis on Saudi market news — LREC 2026 | Python · Transformers · Arabic NLP |
-| [Summarizer](https://github.com/joudalbaiti/Summarizer) | Text summarization tool | Python · NLP |
+
 
 <br/>
 
