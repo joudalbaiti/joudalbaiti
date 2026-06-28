@@ -44,6 +44,7 @@ I build production AI systems with a focus on **Arabic NLP** and **LLM-based pip
 | [Saudi F&B Analytics Dashboard](https://github.com/joudalbaiti/saudi-fnb-analytics-dashboard) | Power BI + AI dashboard for Saudi F&B manufacturing — demand forecasting, anomaly detection, key influencers & decomposition tree | Power BI · DAX · AI visuals |
 | [Arabic Content Recommender](https://github.com/joudalbaiti/arabic-recommender) | Hybrid Arabic movie & series recommender using AraBERT + Collaborative Filtering | AraBERT · FastAPI · scikit-learn |
 | [Kalbunyan — Arabic Sign Language Translator](https://github.com/joudalbaiti/kalbunyan) | Senior project: translates Arabic text to Arabic Sign Language using fine-tuned AraBERT + BiLSTM, with fingerspelling fallback (92% accuracy) | AraBERT · TensorFlow · FastAPI |
+| [Parkinson's Severity Assessment](https://github.com/joudalbaiti/parkinson-severity-v1) | Detects Parkinson's motor severity from finger-tapping video using MediaPipe landmark tracking + LightGBM — trained at KACST internship | MediaPipe · LightGBM · OpenCV |
 
 <br/>
 
